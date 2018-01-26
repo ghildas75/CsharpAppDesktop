@@ -1,0 +1,9 @@
+D:\000000000revCsharp\tpCargaison\tpCargaison\obj\Debug\tpCargaison.csprojResolveAssemblyReference.cache
+D:\000000000revCsharp\tpCargaison\tpCargaison\obj\Debug\tpCargaison.csproj.CoreCompileInputs.cache
+D:\000000000revCsharp\tpCargaison\tpCargaison\bin\Debug\tpCargaison.exe.config
+D:\000000000revCsharp\tpCargaison\tpCargaison\bin\Debug\tpCargaison.exe
+D:\000000000revCsharp\tpCargaison\tpCargaison\bin\Debug\tpCargaison.pdb
+D:\000000000revCsharp\tpCargaison\tpCargaison\obj\Debug\tpCargaison.exe
+D:\000000000revCsharp\tpCargaison\tpCargaison\obj\Debug\tpCargaison.pdb
+D:\000000000revCsharp\tpCargaison\tpCargaison\obj\Debug\tpCargaison.CargaisonForm.resources
+D:\000000000revCsharp\tpCargaison\tpCargaison\obj\Debug\tpCargaison.csproj.GenerateResource.Cache
